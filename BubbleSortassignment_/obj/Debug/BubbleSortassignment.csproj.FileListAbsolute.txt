@@ -1,0 +1,7 @@
+C:\ictpretech\fatimasyed\Sortingalgorithms\BubbleSortassignment\bin\Debug\BubbleSortassignment.exe.config
+C:\ictpretech\fatimasyed\Sortingalgorithms\BubbleSortassignment\bin\Debug\BubbleSortassignment.exe
+C:\ictpretech\fatimasyed\Sortingalgorithms\BubbleSortassignment\bin\Debug\BubbleSortassignment.pdb
+C:\ictpretech\fatimasyed\Sortingalgorithms\BubbleSortassignment\obj\Debug\BubbleSortassignment.csproj.AssemblyReference.cache
+C:\ictpretech\fatimasyed\Sortingalgorithms\BubbleSortassignment\obj\Debug\BubbleSortassignment.csproj.CoreCompileInputs.cache
+C:\ictpretech\fatimasyed\Sortingalgorithms\BubbleSortassignment\obj\Debug\BubbleSortassignment.exe
+C:\ictpretech\fatimasyed\Sortingalgorithms\BubbleSortassignment\obj\Debug\BubbleSortassignment.pdb
